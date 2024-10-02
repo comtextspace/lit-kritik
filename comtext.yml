@@ -1,0 +1,9 @@
+vuepress:
+  title: "Литературный критик"
+  base: "/lit-kritik/"
+  revisionmeProjectId: ""
+
+pages:
+  - index.md
+
+books:
