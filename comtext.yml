@@ -1,7 +1,7 @@
 vuepress:
   title: "Литературный критик"
   base: "/"
-  revisionmeProjectId: ""
+  revisionmeProjectId: "-O9muLVw6wHcbJihfNN_"
 
 pages:
   - index.md
