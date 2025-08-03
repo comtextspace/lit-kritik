@@ -1,0 +1,15 @@
+deploy-site.yml
+
+deploy-site
+
+name: Deploy Site to GitHub Pages
+
+on:
+  - push
+  - workflow_dispatch
+
+jobs:
+  call-deploy:
+    uses: comtextspace/comtext-builder-workflow/.github/workflows/deploy.yml@main
+    with:
+      url: lit-kritik.comtext.space
