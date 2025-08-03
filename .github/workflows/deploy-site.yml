@@ -1,7 +1,3 @@
-deploy-site.yml
-
-deploy-site
-
 name: Deploy Site to GitHub Pages
 
 on:
