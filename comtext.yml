@@ -2,6 +2,8 @@ vuepress:
   title: "Литературный критик"
   base: "/"
   revisionmeProjectId: "-O9muLVw6wHcbJihfNN_"
+  revisionmeFloatingBtn: "1"
+  revisionmeContextWidget: "1"
 
 pages:
   - index.md
