@@ -161,7 +161,7 @@
 * Литература и наука
 * Теория
 
-  * И. Нусинов — [Роза Люксембург о художественной литературе](1933-04-nusinov-roza-ljuksemburg-o-hudozhestvennoj-literature.md) [[files 1933-04-nusinov-roza-ljuksemburg-o-hudozhestvennoj-literature]]
+  * И. Нусинов — [Роза Люксембург о художественной литературе](1933-05-nusinov-roza-ljuksemburg-o-hudozhestvennoj-literature.md) [[files 1933-05-nusinov-roza-ljuksemburg-o-hudozhestvennoj-literature]]
   * Ф. Шиллер — [Поэтические опыты молодого Маркса](1933-05-shiller-pojeticheskie-opyty-molodogo-marksa.md) [[files 1933-05-shiller-pojeticheskie-opyty-molodogo-marksa]]
 
 * Критика
