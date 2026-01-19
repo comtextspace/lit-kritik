@@ -1129,7 +1129,7 @@
 
 * Критика
 
-  * Ф. Левин — Беллетризованная история
+  * Ф. Левин — [Беллетризованная история](1935-12-levin-belletrizovannaya-istoriya.md) [[files 1935-12-levin-belletrizovannaya-istoriya]]
   * Е. Мустангова — Николай Асеев
   * Н. Четунова — Анти Барбюс
   * Франц Лешницер — [Судьба Карла Крауса](1935-12-leshnicer-sudba-karla-krausa.md) [[files 1935-12-leshnicer-sudba-karla-krausa]]
