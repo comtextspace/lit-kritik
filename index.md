@@ -1176,7 +1176,7 @@
 * Бальзак и Стендаль о реализме
 
   * Оноре Бальзак — [Анри Бейль (де-Стендаль)](1936-01-balzak-anri-bejl-de-stendal.md) [[files 1936-01-balzak-anri-bejl-de-stendal]]
-  * Письмо Анри Бейля (де-Стендаля) к О. Де-Бальзаку
+  * [Письмо Анри Бейля (де-Стендаля) к О. Де-Бальзаку](1936-01-pismo-stendalya-balzaku.md) [[files 1936-01-pismo-stendalya-balzaku]]
   * Георг Лукач — [Бальзак — критик Стендаля](1936-01-lukach-balzak-kritik-stendalya.md) [[files 1936-01-lukach-balzak-kritik-stendalya]]
 
 * Критика
