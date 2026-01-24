@@ -1125,7 +1125,7 @@
   * Корнелий Зелинский — Вопросы построения истории советской литературы
   * Г. Лукач — [Томас Манн о литературном наследстве](1935-12-lukach-tomas-mann-o-literaturnom-nasledstve.md) [[files 1935-12-lukach-tomas-mann-o-literaturnom-nasledstve]]
   * Из литературного наследия А.В. Луначарского - [От редакции](1935-12-iz-literaturnogo-naslediya-lunacharskogo-ot-redakcii.md) [[files 1935-12-iz-literaturnogo-naslediya-lunacharskogo-ot-redakcii]]
-  * Из литературного наследия А.В. Луначарского — Социология и патология в истории литературы
+  * Из литературного наследия А.В. Луначарского — [Социология и патология в истории литературы](1935-12-lunacharskij-sociologiya-i-patologiya-v-istorii-literatury.md) [[files 1935-12-lunacharskij-sociologiya-i-patologiya-v-istorii-literatury]]
 
 * Критика
 
