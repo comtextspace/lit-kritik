@@ -1682,7 +1682,7 @@
 * 125-лет со дня рождения А. И. Герцена
 
   * А. В Луначарский — [А. И. Герцен и люди сороковых годов](1937-04-lunacharskij-gercen-i-ljudi-sorokovyh-godov.md) [[files 1937-04-lunacharskij-gercen-i-ljudi-sorokovyh-godov]]
-  * Ф. Левин — Герцен и его эпоха
+  * Ф. Левин — [Герцен и его эпоха](1937-04-levin-gercen-i-ego-epoha.md) [[files 1937-04-levin-gercen-i-ego-epoha]]
 
 * Сто лет со дня гибели А.С. Пушкина
 
