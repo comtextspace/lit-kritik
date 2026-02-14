@@ -2511,7 +2511,7 @@
 * Теория и история литературы
 
   * И. Сац — [Чернышевский — революционер](1939-10-11-sac-chernyshevskij-revoljucioner.md) [[files 1939-10-11-sac-chernyshevskij-revoljucioner]]
-  * Мих. Лифшиц — Философские взгляды Чернышевского
+  * Мих. Лифшиц — [Философские взгляды Чернышевского](1939-10-11-lifshic-filosofskie-vzglyady-chernyshevskogo.md) [[files 1939-10-11-lifshic-filosofskie-vzglyady-chernyshevskogo]]
   * В. Александров — Чернышевский и политическая эконоимия
   * А. Лаврецкий — Чернышевский — критик
   * В. Кирпотин — Великий армянский эпос
