@@ -1487,7 +1487,7 @@
 
 * Теория и история литературы
 
-  * А. Македонов — Пушкин и буржуазия
+  * А. Македонов — [Пушкин и буржуазия](1940-05-06-makedonov-pushkin-i-burzhuaziya.md) [[files 1940-05-06-makedonov-pushkin-i-burzhuaziya]]
   * В. Александров — ["Медный всадник"](1936-10-aleksandrov-mednyj-vsadnik.md) [[files 1936-10-aleksandrov-mednyj-vsadnik]]
   * И. Груздев — Горький и Ромась
   * Агнесса Смэдли — Письма о Горьком
