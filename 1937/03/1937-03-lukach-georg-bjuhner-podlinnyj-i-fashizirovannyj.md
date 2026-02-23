@@ -241,7 +241,7 @@
 > Dass wir im Unglück uns prophetisch freuen,  \
 > Und Kampf und Schmerz, sieglosen Tod nicht scheuen,  \
 > So wird dereinst in yiel beglucktern Tagen  \
-> Die Nachwelt auch nach unserem Leide fragen. \
+> Die Nachwelt auch nach unserem Leide fragen.
 
 > Woher der diistere Unmut unserer Zeit,  \
 > Der Groll, die Eile, die Zerrissenheit? —  \
