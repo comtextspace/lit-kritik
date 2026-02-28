@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Литературный критик</title>
+  <entry>
+    <title>Эстетика и фашизм в Италии</title>
+    <updated>2026-02-28T11:12:33.049Z</updated>
+    <link href="files/1935-02-kolpinskij-jestetika-i-fashizm-v-italii.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Ю. Колпинский</name>
+    </author>
+  </entry>
+</feed>
