@@ -1194,7 +1194,7 @@
     Обзоры и библиография
   * С. Потапов — Поэзия советской Якутии
   * В. Кеменов — [Шекспир в объятиях "социолога"](1936-01-kemenov-shekspir-v-obyatiyah-sociologa.md) [[files 1936-01-kemenov-shekspir-v-obyatiyah-sociologa]]
-  * Е. Усиевич — "Любовь к жизни" Сергея Буданцева
+  * Е. Усиевич — ["Любовь к жизни" Сергея Буданцева](1936-01-usievich-ljubov-k-zhizni-sergeya-budanceva.md) [[files 1936-01-usievich-ljubov-k-zhizni-sergeya-budanceva]]
   * И. Сергиевский — [Вымысел и жизнь](1936-01-sergievskij-vymysel-i-zhizn.md) [[files 1936-01-sergievskij-vymysel-i-zhizn]]
   * А. Теплов — Молодое поколение
 
